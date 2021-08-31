@@ -2,7 +2,6 @@
 
 ## Installing software: 
 
----
 
 ### IDE: 
 
