@@ -21,10 +21,19 @@ I did not have time to find a way to inspect the database tables being created, 
 
 https://github.com/AHelplessStudent/dat250assignment2
 
-Everthing went smoothly until i added the relation between Person, Address and CreditCard, then the id's for the address i was createing suddenly became null, when trying to print. And i forgot to take screenshots of the halfway workings output.
+Everthing went smoothly until i added the relation between Person, Address and CreditCard, then the id's for the address i was createing suddenly became null, when trying to print.
 
 
-s
+here is the output of the last working version. 
+
+![test](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/Screenshot%202021-09-12%20235732.png)
+
+## Remaining Issues 
+
+- Relations between tables are not done correctly, so currently i am persisting all tables in Main. I believe the optimal solution is only persisting the Person table.
+
+- When trying to print the address from Person via the relation, id of address is null, even when id is set manually.  
+
 
 
 
