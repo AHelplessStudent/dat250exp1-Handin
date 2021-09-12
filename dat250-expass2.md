@@ -11,5 +11,6 @@ installed the dependecies through intellij
 
 ## Experiment 2:
 
+https://github.com/AHelplessStudent/dat250assignment2
 
 
