@@ -7,7 +7,7 @@
 opened the maven project in intellij
 installed the dependecies through intellij
 
-![test](Screenshot 2021-09-12 201402.png)
+![test](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/Screenshot%202021-09-12%20201402.png)
 
 ## Experiment 2:
 
