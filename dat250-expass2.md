@@ -24,7 +24,7 @@ https://github.com/AHelplessStudent/dat250assignment2
 Everthing went smoothly until i added the relation between Person, Address and CreditCard, then the id's for the address i was createing suddenly became null, when trying to print. And i forgot to take screenshots of the halfway workings output.
 
 
-
+s
 
 
 
