@@ -13,8 +13,12 @@ I did not have time to find a way to inspect the database tables being created, 
 
 ![test](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/Screenshot%202021-09-12%20201402.png)
 
+![test](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/tables%20created.png)
+
 
 ![test](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/passing%20tests.png)
+
+
 
 
 ## Experiment 2:
@@ -27,6 +31,8 @@ Everthing went smoothly until i added the relation between Person, Address and C
 
 
 ![test](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/exp2.png)
+
+![test](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/exp22.png)
 
 ## Remaining Issues 
 
