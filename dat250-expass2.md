@@ -14,7 +14,7 @@ I did not have time to find a way to inspect the database tables being created, 
 ![test](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/Screenshot%202021-09-12%20201402.png)
 
 
-
+![test](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/passing%20tests.png)
 
 
 ## Experiment 2:
@@ -24,9 +24,9 @@ https://github.com/AHelplessStudent/dat250assignment2
 Everthing went smoothly until i added the relation between Person, Address and CreditCard, then the id's for the address i was createing suddenly became null, when trying to print.
 
 
-here is the output of the last working version. 
 
-![test](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/Screenshot%202021-09-12%20235732.png)
+
+![test](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/exp2.png)
 
 ## Remaining Issues 
 
