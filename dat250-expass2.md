@@ -55,7 +55,9 @@ I also had an issue with getting JUnit test's to run in my IDE. I search on the 
 #### How I inspected the database.
 I used the build-in persistence tool in InteliJ for checking if my relations and tables were being made correctly. And for seeing if the values were being added correctly I made a method <code>checkObject()</code> which queried each object and printed the output in a readable form. 
 
-I choose not to use JUnit testing, as I had the issue described above. In the interest of time i choose to omit the use of unit testing, although it is a great way of testing relations between tables.
+![test](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/outputexp2.png)
+
+I chose not to use JUnit for testing, as I had the issue described above. In the interest of time i choose to omit the use of unit testing, although it is a great way of testing relations between tables.
 
 
 
