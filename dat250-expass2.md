@@ -13,7 +13,7 @@ I did not have time to find a way to inspect the database tables being created, 
 
 ![test](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/Screenshot%202021-09-12%20201402.png)
 
-![test](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/tables%20created.png)
+![test](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/tablescreated.png)
 
 
 ![test](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/passing%20tests.png)
