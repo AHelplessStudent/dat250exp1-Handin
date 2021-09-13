@@ -1,6 +1,5 @@
 # DAT250: Software Technology Experiment Assignment 2
 
-### Disclaimer i did not realize the indevidual assignments were mandatory until a couple of hours before the deadline. Therefore this is very rushed. I hope you will take this into account when grading.
 
 ## Experiment 1:
 
