@@ -9,7 +9,7 @@ I opened the maven project in intellij using the pom.xml file and thus installin
 
 Result after the installing step:
 
-![test](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/Screenshot%202021-09-12%20201402.png)
+![test](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass2/Screenshot%202021-09-12%20201402.png)
 
 
 ### Inspecting the tables : 
@@ -19,10 +19,10 @@ In this case from Person to Job is One-to-Many unidiractional and Person to Fami
 
 
 
-![test](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/tablescreated.png)
+![test](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass2/tablescreated.png)
 
 
-![test](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/passing%20tests.png)
+![test](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass2/passing%20tests.png)
 
 
 ### Problems : 
@@ -39,10 +39,10 @@ https://github.com/AHelplessStudent/dat250assignment2
 The tables corresponded just about to my initial thoughts. 
 
 
-![test](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/exp2.png)
+![test](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass2/exp2.png)
 
 
-![test](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/exp22.png)
+![test](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass2/exp22.png)
 
 
 ### Technical issues
@@ -54,7 +54,7 @@ I also had an issue with getting JUnit test's to run in my IDE. I search on the 
 ### How I inspected the database.
 I used the build-in persistence tool in InteliJ for checking if my relations and tables were being made correctly. And for seeing if the values were being added correctly I made a method <code>checkObject()</code> which queried each object and printed the output in a readable form. 
 
-![test](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/outputexp2.png)
+![test](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass2/outputexp2.png)
 
 I chose not to use JUnit for testing, as I had the issue described above. In the interest of time i choose to omit the use of unit testing, although it is a great way of testing relations between tables.
 
