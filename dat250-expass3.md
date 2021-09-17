@@ -1,18 +1,59 @@
+# DAT250: Software Technology Experiment Assignment 3
 
+
+>Tip: If the screenshots are hard to read, go to the repository and look at them directly.
+
+## Installation:
 
 ![image1](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass3/expass3_MongoDBChecksumWebsite.png)
 
+![image2](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass3/expass3_MongoDBChecksumLocal.png)
 
-![image1](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass3/expass3_MongoDBChecksumLocal.png)
+## Experiment 1:
 
-![image1](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass3/expass3_Experiment1_Insert.png)
-![image1](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass3/expass3_Experiment1_Query.png)
-![image1](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass3/expass3_Experiment1_Remove.png)
-![image1](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass3/expass3_Experiment1_Update.png)
-![image1](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass3/expass3_Experiment1_bulkWrite.png)
-![image1](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass3/expass3_Experiment2_Insert.png)
-![image1](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass3/expass3_Experiment2_Declare%20and%20use%20variables.png)
-![image1](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass3/expass3_Experiment2_Aggregation_Alternative.png)
-![image1](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass3/expass3_Experiment2_functions2.png)
-![image1](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass3/expass3_Experiment2_Aggregation_Alternative2.png)
-![image1](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass3/expass3_Experiment2_Query%20result%20variables.png)
+- Insert step: (Screenshot shows the data which was added.)
+
+![image3](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass3/expass3_Experiment1_Insert.png)
+
+- Query step: (Screenshot shows every command in the step)
+
+![image4](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass3/expass3_Experiment1_Query.png)
+
+- Remove step: (Screenshot shows every command in the step)
+  
+![image5](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass3/expass3_Experiment1_Remove.png)
+
+- Update step: (Screenshot shows the data after all commands were executed.)
+
+![image6](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass3/expass3_Experiment1_Update.png)
+
+- Bulk Write step: (Screenshot shows every command in the step)
+
+![image7](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass3/expass3_Experiment1_bulkWrite.png)
+
+## Experiment 2:
+
+### Map-Reduce Examples:
+
+Screenshots below show the entire tutorial.
+
+- Inserting data:
+![image8](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass3/expass3_Experiment2_Insert.png)
+
+- "Return the Total Price Per Customer"
+![image9](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass3/expass3_Experiment2_Declare%20and%20use%20variables.png)
+
+![image13](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass3/expass3_Experiment2_Query%20result%20variables.png)
+
+- "Aggregation Alternative
+![image10](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass3/expass3_Experiment2_Aggregation_Alternative.png)
+
+- "Calcutlate Order and Total Quantity with Average Quantity Per Item"
+![image11](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass3/expass3_Experiment2_functions2.png)
+
+- "Aggregation Alternative"
+![image12](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass3/expass3_Experiment2_Aggregation_Alternative2.png)
+
+### Creating my own Map-Reduce Function:
+
+
