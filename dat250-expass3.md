@@ -63,4 +63,23 @@ Screenshots below show the entire tutorial.
 
 ### Creating my own Map-Reduce Function:
 
+I chose to implement a Query which returns the most popular product. (The product which shows up the most in the orders. No matter the quantity.)
 
+<code>
+
+var mapFunction2 = function() {
+    for (var idx= 0; idx < this.items.length; idx++) {
+        var key = this.items[idx].sku;
+        var value = { count:1 }
+    }
+}
+
+</code>
+
+
+
+### Technical problems and Pending issues: 
+
+I had no techinacal problems downloading or using MongoDB.
+
+There are no pending issues left. 
