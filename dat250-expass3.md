@@ -5,6 +5,8 @@
 
 ## Installation:
 
+- Checked the Checksum with openssl. (1st screenshot is the websites checksum, 2nd is my result.)
+
 ![image1](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass3/expass3_MongoDBChecksumWebsite.png)
 
 ![image2](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass3/expass3_MongoDBChecksumLocal.png)
@@ -38,20 +40,25 @@
 Screenshots below show the entire tutorial.
 
 - Inserting data:
+  
 ![image8](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass3/expass3_Experiment2_Insert.png)
 
 - "Return the Total Price Per Customer"
+
 ![image9](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass3/expass3_Experiment2_Declare%20and%20use%20variables.png)
 
 ![image13](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass3/expass3_Experiment2_Query%20result%20variables.png)
 
 - "Aggregation Alternative
+
 ![image10](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass3/expass3_Experiment2_Aggregation_Alternative.png)
 
 - "Calcutlate Order and Total Quantity with Average Quantity Per Item"
+
 ![image11](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass3/expass3_Experiment2_functions2.png)
 
 - "Aggregation Alternative"
+
 ![image12](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass3/expass3_Experiment2_Aggregation_Alternative2.png)
 
 ### Creating my own Map-Reduce Function:
