@@ -74,10 +74,9 @@ Output:
   
 ![image13](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass3/expass3_Experiment2_Custom.png)
 
-The function is useful, because it shows which products are being bought the most, while also showing the gross revenues for each product. As well as showing the amount bought of each product. 
+The function is useful, because it shows which products are bought the most, while also showing the gross revenues for each product and the amount bought of each product. The store could then make better decisions for what to stock up on.  
   
-Could be made more useful with specifying dates for a weekly/monthly overview of sales. And the addition of net revenue could make it even more useful.
-
+Could be made more useful with specifying dates for a weekly/monthly overview of sales. And the addition of net revenue could make it even more useful. That way the store could know what to stock up on during a specific time of year. And knowing which items makes them the most money could influence which new products they would introduce. 
   
 ### Technical problems and Pending issues: 
 
