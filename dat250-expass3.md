@@ -63,21 +63,42 @@ Screenshots below show the entire tutorial.
 
 ### Creating my own Map-Reduce Function:
 
-I chose to implement a Query which returns the most popular product. (The product which shows up the most in the orders. No matter the quantity.)
+I chose to implement a Function which returns all the products sold, with the gross sales and quantities. 
 
 <code>
-
-var mapFunction2 = function() {
-    for (var idx= 0; idx < this.items.length; idx++) {
-        var key = this.items[idx].sku;
-        var value = { count:1 }
-    }
+var mapFunction = function() {
+ for (var idx = 0; idx < this.items.length; idx++) {        
+    var key = this.items[idx].sku;        
+    var value = { count: 1, price: this.items[idx].price, qty: this.items[idx].qty };         
+		
+    emit(key, value);     
+  } 
 }
-
 </code>
 
+<code>
+var reduceFunction = function(keySku, countObjVals) {
+  reducedVal = { count: 0, totalPrice: 0, qty: 0 };  
 
+  for (var i = 0; i < countObjVals.length; i++) {   
+    reducedVal.count += countObjVals[i].count;   
+    reducedVal.totalPrice += countObjVals[i].price;   
+    reducedVal.qty += countObjVals[i].qty; 
+  }  
 
+  return reducedVal; 
+}  
+</code>
+
+Output: 
+  
+![image13](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass3/expass3_Experiment2_Custom.png)
+
+The function is useful, because it shows which products are being bought the most, while also showing the gross revenues for each product. As well as showing the amount bought of each product. 
+  
+Could be made more useful with specifying dates for a weekly/monthly overview of sales. And the addition of net revenue could make it even more useful.
+
+  
 ### Technical problems and Pending issues: 
 
 I had no techinacal problems downloading or using MongoDB.
