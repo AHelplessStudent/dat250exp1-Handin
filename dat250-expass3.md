@@ -65,30 +65,10 @@ Screenshots below show the entire tutorial.
 
 I chose to implement a Function which returns all the products sold, with the gross sales and quantities. 
 
-<code>
-var mapFunction = function() {
- for (var idx = 0; idx < this.items.length; idx++) {        
-    var key = this.items[idx].sku;        
-    var value = { count: 1, price: this.items[idx].price, qty: this.items[idx].qty };         
-		
-    emit(key, value);     
-  } 
-}
-</code>
+Code:
 
-<code>
-var reduceFunction = function(keySku, countObjVals) {
-  reducedVal = { count: 0, totalPrice: 0, qty: 0 };  
+![image14](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass3/expass3_Experiment2_CustomFunctions.png)
 
-  for (var i = 0; i < countObjVals.length; i++) {   
-    reducedVal.count += countObjVals[i].count;   
-    reducedVal.totalPrice += countObjVals[i].price;   
-    reducedVal.qty += countObjVals[i].qty; 
-  }  
-
-  return reducedVal; 
-}  
-</code>
 
 Output: 
   
