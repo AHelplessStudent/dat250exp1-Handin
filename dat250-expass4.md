@@ -25,7 +25,7 @@ I then ran a PUT request with the following payload.
 }
 ```
 
-And got the same payload in the respons, meaning the PUT request succeeded.
+And got the same payload in the response, meaning the PUT request succeeded.
 I verified this with another GET request, and the same payload was returned.
 
 # Experiment 2:
