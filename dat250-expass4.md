@@ -32,10 +32,14 @@ I verified this with another GET request, and the same payload was returned.
 
 Link to the code : https://github.com/AHelplessStudent/dat250exp1-Handin/tree/main/Code/exp2Expass4
 
+(I decided to use the same repo as the reports, as I didn't want 7 new repos with just a tiny bit of code in them.)
+
 I took inspiration from the tweet example showed in the slides, for the structure of the data. 
 The structure is as follows, a class Todos which acts a "wrapper" class with the methods to carry-out the requests, and an arraylist of Todo objects. A Todo class where the information about a single todo is stored. 
 
-And the Json returned is structured the same with a list of todo objects. 
+And the Json created is structured the same with a list of todo objects. Exactly the same as the tweets example in the slides.
+
+I initalize the todo-list with a todo, with id=1 for testing the GET requests.
 
 I implemented 4 different get methods, heavily inspired by the Counters example in experiment 1.
 
@@ -63,4 +67,17 @@ And finally I implemented 1 delete method.
 
 DELETE ("/todos/:id") : Which deletes the corresponding todo from the todo-list.
 
-Remeber to use the id and not the index when testing the requests.
+Remember to use the id and not the index when testing the requests.
+
+## Problems encountered and Pending issues:
+
+The only problems I encountered were small bugs due to unfinished code and ideas during development. Once all those were fixed, no unintended issues remained. (that I know of)
+
+An intended "issue" is the lack of checks for wrong inputs in the requests. Currently there are no catches for errors related to incorrect input.
+
+I did not use JPA to persist the todo objects, as the experiment reads: "Consider the Todo-class from software technology assignment 1:", Which I interpreted as using the Todo class from the assignment as just a class which did not need to be persisted. 
+
+Considering there is no mention of JPA in the experiment description, this seems like a reasonable interpretaion.
+
+
+
