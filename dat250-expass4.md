@@ -30,7 +30,7 @@ I verified this with another GET request, and the same payload was returned.
 
 # Experiment 2:
 
-Link to the code : 
+Link to the code : https://github.com/AHelplessStudent/dat250exp1-Handin/tree/main/Code/exp2Expass4
 
 I took inspiration from the tweet example showed in the slides, for the structure of the data. 
 The structure is as follows, a class Todos which acts a "wrapper" class with the methods to carry-out the requests, and an arraylist of Todo objects. A Todo class where the information about a single todo is stored. 
