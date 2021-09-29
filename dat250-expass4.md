@@ -7,28 +7,30 @@ Postman to run GET and PUT requests on the application.
 
 I first ran a GET request, which returned 
 
-´´´
+```
 {
 	"red" : 0,
 	"green" : 0
 }
-´´´
+```
 
 which was expected as I had not ran any put requests on the application.
 
 I then ran a PUT request with the following payload.
 
-´´´
+```
 {
 	"red" : 3,
 	"green" : 2
 }
-´´´
+```
 
 And got the same payload in the respons, meaning the PUT request succeeded.
 I verified this with another GET request, and the same payload was returned.
 
 # Experiment 2:
+
+Link to the code : 
 
 I took inspiration from the tweet example showed in the slides, for the structure of the data. 
 The structure is as follows, a class Todos which acts a "wrapper" class with the methods to carry-out the requests, and an arraylist of Todo objects. A Todo class where the information about a single todo is stored. 
@@ -55,8 +57,10 @@ I implemented 1 put method.
 
 PUT ("/todos/:id") : Which lets you update a specific todo with the corresponding id.
 
+(You cannot update the id.)
+
 And finally I implemented 1 delete method.
 
 DELETE ("/todos/:id") : Which deletes the corresponding todo from the todo-list.
 
-
+Remeber to use the id and not the index when testing the requests.
