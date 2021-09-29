@@ -28,7 +28,7 @@ I then ran a PUT request with the following payload.
 And got the same payload in the response, meaning the PUT request succeeded.
 I verified this with another GET request, and the same payload was returned.
 
-# Experiment 2:
+## Experiment 2:
 
 Link to the code : https://github.com/AHelplessStudent/dat250exp1-Handin/tree/main/Code/exp2Expass4
 
