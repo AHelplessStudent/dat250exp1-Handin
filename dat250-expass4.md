@@ -79,5 +79,6 @@ I did not use JPA to persist the todo objects, as the experiment reads: "Conside
 
 Considering there is no mention of JPA in the experiment description, this seems like a reasonable interpretaion.
 
+I chose not to do experiments 3 and 4 because of time constraints from other courses.
 
 
