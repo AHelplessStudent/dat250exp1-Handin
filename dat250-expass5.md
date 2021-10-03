@@ -1,10 +1,12 @@
 # DAT250: Software Technology Experiment Assignment 5
 
-Link to Code : 
+Link to Code : https://github.com/AHelplessStudent/dat250exp1-Handin/tree/main/Code/expass5code
 
 (for experiment 2 my code is located at exp2/gs-spring-boot/initial)
 
 ## Experiment 1:
+
+Direct Link to Code : https://github.com/AHelplessStudent/dat250exp1-Handin/tree/main/Code/expass5code/exp1/demo
 
 I followed the turtorial steps, until I encountered an error trying to run the mvnw command on my machine.
 
@@ -16,6 +18,8 @@ Checking that the parameter works.
 ![image1](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass5/Experiment1.png)
 
 ## Experiment 2:
+
+Direct Link to Code : https://github.com/AHelplessStudent/dat250exp1-Handin/tree/main/Code/expass5code/exp2
 
 I chose to clone the git repo instead of using the Spring Initializr. I used the maven project files. 
 
@@ -36,6 +40,8 @@ Testing the groovy support step. After installing the Spring-CLI tool and adding
 
 ## Experiment 3:
 
+Direct Link to Code : https://github.com/AHelplessStudent/dat250exp1-Handin/tree/main/Code/expass5code/exp3/rest-service
+
 I chose to use the Spring Initializr for this experiment. I created a Maven project.
 
 After creating the Classes Greeting and GreetingController, as detailed in the tutorial. I tested them by running the application with "mvnw spring-boot:run" and getting the expected result from the Test inputs given in the tutorial.
@@ -46,6 +52,8 @@ After creating the Classes Greeting and GreetingController, as detailed in the t
 
 
 ## Experiment 4:
+
+Direct Link to Code : https://github.com/AHelplessStudent/dat250exp1-Handin/tree/main/Code/expass5code/exp4/accessing-data-jpa
 
 I chose to use the Spring Initializr for this experiment using the template given in the tutorial. I created a Maven project.
 
