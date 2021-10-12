@@ -22,7 +22,7 @@ I decided to do the tutorial locally instead of in CodePen.
 
 After following the steps in the tutorial I had my local environment setup.
 
-![image1](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass6/Exp2setup.png)
+![image1](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass6/Exp2Setup.png)
 
 ### Overview
 
