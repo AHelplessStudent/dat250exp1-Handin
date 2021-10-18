@@ -11,7 +11,7 @@ Below is the result of running the "status" command on the running instance.
 
 ## Experiment 2:
 
-Link to code : https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/code/expass7code/exp2
+Link to code : https://github.com/AHelplessStudent/dat250exp1-Handin/tree/main/Code/expass7code/exp2
 
 I used Java as the tutorial used it. And I created a maven project.
 
@@ -19,7 +19,7 @@ To run the code just open the maven project in an IDE and run the classes in the
 
 After running the Save.java class
 
-![image1](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass7/save.png)
+![image1](https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/ImagesExpass7/send.png)
 
 After running the Recv.java class after the Send program. 
 
@@ -27,7 +27,7 @@ After running the Recv.java class after the Send program.
 
 ## Experiment 3:
 
-Link to code : https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/code/expass7code/exp3
+Link to code : https://github.com/AHelplessStudent/dat250exp1-Handin/tree/main/Code/expass7code/exp3
 
 I had a few issues which are detailed in the Problems encountered section below. 
 
@@ -50,7 +50,7 @@ java -cp .;amqp-client-5.13.1.jar;slf4j-api-1.7.31.jar;slf4j-simple-1.6.4.jar Ne
 
 ## Experiment 4:
 
-Link to code : https://github.com/AHelplessStudent/dat250exp1-Handin/blob/main/code/expass7code/exp4
+Link to code : https://github.com/AHelplessStudent/dat250exp1-Handin/tree/main/Code/expass7code/exp4
 
 I ran the code in my IDE on this step.
 
